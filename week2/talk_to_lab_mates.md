@@ -10,14 +10,12 @@
 8. Tell them about the merit of the lab, tell jokes about labs and other stuff.
 
 ## Goal
-1. Try to make the junior lab mates feel at home if possible, thus the there should be less formality.
+1. Try to make the junior lab mates feel at home if possible, thus the there should be less formality, make them feel interested.
 2. Make them want to join the lab, the lab should have profession and relaxation combined.
 3. Tell the merit of the lab, and make them want to and stay at home when considering this lab.
 4. You are also representing your lab, but formality degrades here.
 
 # Structures
-1. First give a small basic intro of myself, the person who are giving the presentation. Jacky Yeh. 大家叫我葉師傅，可能因為我的英文名子 Jacky 跟武打片明星成龍還有葉問有關，所以外國人聽到我的名子會說，So your name is Jacky? You play Kunfu?
-2. Lab basic introduction, research topics.
-3. How my life in lab usually work out?
-4. The chance of socializing, we went on vacation and some basic informations about where we are.
-5. Take lectures , salary, when should I start doing the research, the frequency of group meeting.
+1. Lab basic introduction, research topics, usual schedule, vacations, oppurtunities.
+2. The chance of socializing, we went on vacation and some basic informations about where we are.
+3. Take lectures , salary, when should I start doing the research, the frequency of group meeting.

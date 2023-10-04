@@ -1,0 +1,4 @@
+# Main difference of A,B,C
+1. The dissertation presentation is very formal, details and comparison models should be included, goal is to convince others that your thesis has its value, it focuses on comparison or what problem you just solved, references should be cited.
+2. The Lab Seminar is less formal, our goals is to share the paper that interested you, since most people are busy doing their research, you should make your presentation quick.
+3. You are trying to advertise your lab, goal is to make people become interested in joining the lab. Think about what they are interested. Research topic, opportunity, vacation and the research timeline of past seniors.
